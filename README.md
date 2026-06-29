@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Marc Sherwood 👋
 
 ### GTM Strategy & Product Analytics Engine Driven by Code.
 
