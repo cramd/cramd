@@ -1,6 +1,5 @@
 # Hi, I'm Marc Sherwood 👋
-![Project Dashboard](https://github.com/user-attachments/assets/2cfacb58-2e51-452a-9753-748c00fb16d7)
-  </p>
+<img src="https://github.com/user-attachments/assets/2cfacb58-2e51-452a-9753-748c00fb16d7" width="100%" alt="Project Dashboard">
 ### GTM Strategy & Product Analytics Engine Driven by Code.
 I sit at the intersection of Go-To-Market (GTM) strategy and full-stack engineering. I don't just write playbooks or manage marketing pipelines—I build the automated infrastructure, AI integrations, and applications that power them. 
 
