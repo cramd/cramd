@@ -1,5 +1,18 @@
 # Hi, I'm Marc Sherwood 👋
-<img src="https://github.com/user-attachments/assets/2cfacb58-2e51-452a-9753-748c00fb16d7" width="100%" alt="Project Dashboard">
+# 🛠️ My Project Ecosystem
+
+<a href="https://yourportfolio.com">
+  <img src="https://github.com/user-attachments/assets/2cfacb58-2e51-452a-9753-748c00fb16d7" width="100%" alt="Project Dashboard">
+</a>
+
+### 🗂️ Project Directory
+*Click a project below to jump directly to its source code or live deployment.*
+
+| Project | Stack Highlights | Links |
+| :--- | :--- | :--- |
+| **HoneOS.ai** | `React SPA` `Docker` `Cloud Run` | [View Code](https://github.com/...) / [Live Demo](https://...) |
+| **Looking Glass** | `Proxmox VE` `VictoriaMetrics` `Ansible` | [View Code](https://github.com/...) |
+| **HubSpot CRM & MCP** | `Node.js MCP` `GPT-4` `HubSpot API` | [View Code](https://github.com/...) |
 ### GTM Strategy & Product Analytics Engine Driven by Code.
 I sit at the intersection of Go-To-Market (GTM) strategy and full-stack engineering. I don't just write playbooks or manage marketing pipelines—I build the automated infrastructure, AI integrations, and applications that power them. 
 
