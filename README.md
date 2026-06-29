@@ -1,7 +1,8 @@
 # Hi, I'm Marc Sherwood 👋
-
+<p align="center"
+  <img src="https://github.com/user-attachments/assets/2cfacb58-2e51-452a-9753-748c00fb16d7" alt="Project Dashboard" width="100%">
+  </p>
 ### GTM Strategy & Product Analytics Engine Driven by Code.
-
 I sit at the intersection of Go-To-Market (GTM) strategy and full-stack engineering. I don't just write playbooks or manage marketing pipelines—I build the automated infrastructure, AI integrations, and applications that power them. 
 
 Below is the ecosystem of production-ready applications, developer tools, and DevOps infrastructure I've built and deployed.
@@ -14,14 +15,14 @@ Below is the ecosystem of production-ready applications, developer tools, and De
 
 | Project | Category | Tech Stack | Live / Source |
 | :--- | :--- | :--- | :--- |
-| **HoneOS.ai** | COSS GTM & AI Intelligence | `React SPA` `Firebase` `Docker` `Cloud Run` | [Repo Link](https://github.com/cramd/honeos) |
-| **Looking Glass** | Infrastructure Monitoring | `Proxmox VE` `VictoriaMetrics` `Docker` `Ansible` | [Repo Link](https://github.com/cramd/looking-glass) |
+| **HoneOS.ai** | COSS GTM & AI Intelligence | `React SPA` `Firebase` `Docker` `Cloud Run` | [Repo Link](https://github.com/cramd/HoneOS-Main) |
+| **Looking Glass** | Infrastructure Monitoring | `Proxmox VE` `VictoriaMetrics` `Docker` `Ansible` | [Repo Link](https://github.com/cramd/LookingGlass/) |
 | **Social Battery** | Mobile App & DevOps | `React Native` `Tailscale` `Self-Hosted` | [Repo Link](https://github.com/cramd/social-battery) |
 | **HuntMode** | AI Interview Dashboard | `React` `Next.js` `AI/BYOK` `Prisma` | [Live](https://fuzzynacho.org) / [Repo](https://github.com/cramd/huntmode) |
 | **BattleCard** | Next.js & AI | `Next.js 14` `PostgreSQL` `Gemini API` `Prisma` | [Repo Link](https://github.com/cramd/battlecard) |
-| **Cookie Trash Rejecter** | Chrome Extension | `Chrome Extension API` `Vanilla JS` | [Chrome Store](link) / [Repo](https://github.com/cramd/cookie-trash) |
+| **Cookie Trash Rejecter** | Chrome Extension | `Chrome Extension API` `Vanilla JS` | [Chrome Store](link) / [Repo](https://github.com/cramd/cookie-trash-rejecter) |
 | **HubSpot CRM & MCP Tool** | MCP Server & CRM | `Node.js MCP` `GPT-4` `HubSpot API` | [Repo Link](https://github.com/cramd/hubspot-mcp) |
-| **BDayLoot.com** | React Native & Maps | `React Native` `Expo` `Express.js` | [Live](https://bdayloot.com) / [Repo](https://github.com/cramd/bdayloot) |
+| **BDayLoot.com** | React Native & Maps | `React Native` `Expo` `Express.js` | [Live](https://bdayloot.com) / [Repo](hhttps://github.com/cramd/what-is-free-on-my-birthday) |
 
 ---
 
