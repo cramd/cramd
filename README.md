@@ -22,7 +22,6 @@ Below is the ecosystem of production-ready applications, developer tools, and De
 
 ## 🛠️ My Project Ecosystem
 
-![Project Dashboard](./path-to-your-screenshot.jpg)
 
 | Project | Category | Tech Stack | Live / Source |
 | :--- | :--- | :--- | :--- |
