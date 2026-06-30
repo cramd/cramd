@@ -42,4 +42,4 @@ Below is the ecosystem of production-ready applications, developer tools, and De
 * **Infrastructure as Code:** Self-hosting ecosystems utilizing Proxmox, secure overlay networks (Tailscale), and automated provisioning via Ansible.
 * **GTM Engineering:** Transitioning traditional sales and marketing motions into automated software pipelines (OQL surfacing, dynamic AI playbooks).
 
-📫 **Connect with me:** [LinkedIn](your-link) | [Twitter/X](your-link)
+📫 **Connect with me:** [LinkedIn]([your-link](https://www.linkedin.com/in/marcsherwood/))
